@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 def benefit(t, n, k):
     """
     t: lãi suất theo % mỗi tháng (vd: 1.5 cho 1.5%)
@@ -25,3 +29,4 @@ try:
         print(f"Số tiền nhận được sau {k} tháng là: {result:.2f}")
 except ValueError:
     print("Vui lòng nhập đúng định dạng số.")
+
