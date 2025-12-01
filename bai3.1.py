@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 import math
 
 def Tinh(R):
@@ -20,3 +24,4 @@ try:
 except valueError:
     print("Vui lòng nhập một số hợp lệ!")
     
+
