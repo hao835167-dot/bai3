@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 def benefit(t, n, k):
     """
     Tính số tiền nhận được sau k tháng gửi tiết kiệm
