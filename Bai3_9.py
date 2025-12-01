@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 # Chương trình máy tính thực hiện các phép tính đơn giản
 # Program make a simple calculator that can add, subtract, multiply and divide using functions
 
